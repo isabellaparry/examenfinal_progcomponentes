@@ -5,15 +5,25 @@ Este proyecto es la entrega final de la asignatura Programación de Componentes,
 ## Tecnologías principales
 
 React + Vite
+
 React Router DOM
+
 Bootstrap 5
+
 Firebase (Spark)
+
 Firestore Database
+
 Authentication
+
 Storage
+
 Axios
+
 React-Simple-Validator
+
 Cordova (generación de APK)
+
 Netlify (deploy del sitio web)
 
 ## Links
